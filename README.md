@@ -12,11 +12,11 @@ Use the release tag as the Maven repository URL:
 repositories {
   google()
   mavenCentral()
-  maven { url = uri("https://raw.githubusercontent.com/Jolibox-Developer/jolibox-ad-mediation-android-maven/0.5.0/") }
+  maven { url = uri("https://raw.githubusercontent.com/Jolibox-Developer/jolibox-ad-mediation-android-maven/0.6.0/") }
 }
 
 dependencies {
-  implementation("com.jolibox.android:jolibox-ad-mediation:0.5.0")
+  implementation("com.jolibox.android:jolibox-ad-mediation:0.6.0")
 }
 ```
 

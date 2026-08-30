@@ -1,0 +1,41 @@
+Jolibox Proprietary SDK License
+
+Copyright © 2024–2026 Jolibox Pte. Ltd. All rights reserved.
+
+This repository contains compiled Jolibox Ad Mediation Android SDK binaries
+(the "Software").
+
+1. Grant of license
+Subject to this License and any applicable written agreement with Jolibox Pte.
+Ltd. ("Jolibox"), Jolibox grants you a limited, non-exclusive,
+non-transferable, non-sublicensable, revocable license to use and integrate the
+Software solely with a Jolibox-authorized application and the corresponding
+Jolibox services.
+
+2. Restrictions
+Except as expressly permitted in writing by Jolibox, you must not sell, rent,
+lease, sublicense, redistribute, reverse engineer, decompile, disassemble,
+modify, or create derivative works of the Software; remove proprietary notices;
+or bypass service, advertising, security, or access controls.
+
+3. Ownership
+The Software, Jolibox services, trademarks, and all related intellectual-
+property rights remain the property of Jolibox or its licensors. This License
+does not transfer ownership or grant trademark rights.
+
+4. Third-party materials
+The Software may depend on third-party software governed by its own license
+terms. You are responsible for complying with applicable third-party terms.
+
+5. No warranty and limitation of liability
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY
+KIND. TO THE MAXIMUM EXTENT PERMITTED BY LAW, JOLIBOX AND ITS LICENSORS ARE NOT
+LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE
+DAMAGES, OR LOSS OF DATA, REVENUE, PROFITS, OR BUSINESS OPPORTUNITY.
+
+6. Termination
+This License terminates automatically upon breach. On termination, you must stop
+using the Software and remove all copies under your control.
+
+7. Contact
+For licensing or support inquiries, contact contact@jolibox.com.

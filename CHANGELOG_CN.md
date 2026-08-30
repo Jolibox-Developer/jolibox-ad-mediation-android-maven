@@ -2,6 +2,10 @@
 
 > English documentation: [CHANGELOG.md](CHANGELOG.md)
 
+## 0.6.1
+
+- 使用新的不可变坐标重新发布已验证的 `0.6.0` 二进制，并修正许可证元数据。
+
 ## 0.6.0
 
 - 以统一的 `0.6.0` 版本重新构建并发布 Android 二进制制品。

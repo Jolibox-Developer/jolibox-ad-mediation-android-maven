@@ -2,6 +2,10 @@
 
 > 中文说明：[CHANGELOG_CN.md](CHANGELOG_CN.md)
 
+## 0.6.1
+
+- Republishes the verified `0.6.0` binary at a new immutable coordinate with corrected license metadata.
+
 ## 0.6.0
 
 - Rebuilt and republished the Android binary under the unified `0.6.0` release.

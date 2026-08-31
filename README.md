@@ -12,11 +12,11 @@ Use the release tag as the Maven repository URL:
 repositories {
   google()
   mavenCentral()
-  maven { url = uri("https://raw.githubusercontent.com/Jolibox-Developer/jolibox-ad-mediation-android-maven/0.6.1/") }
+  maven { url = uri("https://raw.githubusercontent.com/Jolibox-Developer/jolibox-ad-mediation-android-maven/0.6.2/") }
 }
 
 dependencies {
-  implementation("com.jolibox.android:jolibox-ad-mediation:0.6.1")
+  implementation("com.jolibox.android:jolibox-ad-mediation:0.6.2")
 }
 ```
 
@@ -28,6 +28,7 @@ Keep a single resolved version of Google Mobile Ads in the final Android app.
 - Android `minSdk 23`
 - `compileSdk 35`
 - Java 17
+- Kotlin `2.0.21` compatible metadata
 - Google Mobile Ads App ID configured in the host application's manifest
 
 Initialize the SDK once during application startup, before loading ads. Your

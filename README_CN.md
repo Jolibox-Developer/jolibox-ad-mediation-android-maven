@@ -12,11 +12,11 @@ Jolibox Ad Mediation Android SDK 的仅二进制 Maven 分发仓库。
 repositories {
   google()
   mavenCentral()
-  maven { url = uri("https://raw.githubusercontent.com/Jolibox-Developer/jolibox-ad-mediation-android-maven/0.6.1/") }
+  maven { url = uri("https://raw.githubusercontent.com/Jolibox-Developer/jolibox-ad-mediation-android-maven/0.6.2/") }
 }
 
 dependencies {
-  implementation("com.jolibox.android:jolibox-ad-mediation:0.6.1")
+  implementation("com.jolibox.android:jolibox-ad-mediation:0.6.2")
 }
 ```
 
@@ -28,6 +28,7 @@ SDK 会传递引入 `com.google.android.gms:play-services-ads:24.0.0`。最终 A
 - Android `minSdk 23`
 - `compileSdk 35`
 - Java 17
+- Kotlin `2.0.21` 兼容元数据
 - 在宿主应用 Manifest 中配置 Google Mobile Ads App ID
 
 请在应用启动阶段完成一次 SDK 初始化，再加载广告。Jolibox 的接入配置会单独
